@@ -1,0 +1,16 @@
+{
+  "name": "axios-file-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test spectfied\" && exit 1"
+  },
+  "author": "boyka",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
